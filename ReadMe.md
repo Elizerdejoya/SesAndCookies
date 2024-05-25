@@ -1,4 +1,4 @@
-User credentials- pass=eli  username=eli@email.com
+Credentials- pass=elieli  username=eli@email.com
 
 
 Head to the Assignment folder there is users.sql 
